@@ -8,6 +8,6 @@
 1. run `node server.js`
 2. Navigate to `localhost:8080`
 
-## Credit
+Welcome to my Full-Stack application! You can sign up and create company incident reports and scalae it's severity from 1-10!
 
-Modified from Scotch.io's auth tutorial
+![alt text](imgs/incident.jpg)
