@@ -11,3 +11,4 @@
 Welcome to my Full-Stack application! You can sign up and create company incident reports and scalae it's severity from 1-10!
 
 ![alt text](imgs/incident.jpg)
+
